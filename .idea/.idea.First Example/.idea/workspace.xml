@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d495284c-14d5-4409-87bc-3d8158e472c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaceSecond_Example.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/follow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sphere.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfacefinal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Impulse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaceFirst_Example.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaceThird_Example.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/follow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Impulse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Eruption.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfacefinal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfacefirst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaceSecond_Example.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaceFirst_Example.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaceThird_Example.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sphere.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jH0oyOgDcruoVFboobLIq87haO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d495284c-14d5-4409-87bc-3d8158e472c0" name="Default Changelist" comment="" />
+      <created>1603445891608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603445891608</updated>
+      <workItem from="1603445905310" duration="20000" />
+      <workItem from="1603445939472" duration="774000" />
+      <workItem from="1603446764294" duration="147000" />
+      <workItem from="1603447402534" duration="470000" />
+      <workItem from="1603447902177" duration="8000" />
+      <workItem from="1603447949497" duration="54000" />
+      <workItem from="1603448027584" duration="32000" />
+      <workItem from="1603834990018" duration="130000" />
+      <workItem from="1604965063774" duration="131000" />
+      <workItem from="1604967272152" duration="251000" />
+      <workItem from="1604967548239" duration="65000" />
+      <workItem from="1604967631587" duration="17000" />
+      <workItem from="1605462212750" duration="7083000" />
+      <workItem from="1606228322712" duration="1119000" />
+      <workItem from="1606231724969" duration="599000" />
+      <workItem from="1606241161037" duration="364000" />
+      <workItem from="1606261656016" duration="605000" />
+      <workItem from="1606316102635" duration="7159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="127" key="SettingsEditor" timestamp="1603446354259">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="144" y="127" key="SettingsEditor/0.0.1280.984/1280.124.1600.900@0.0.1280.984" timestamp="1603446354259" />
+  </component>
+</project>
